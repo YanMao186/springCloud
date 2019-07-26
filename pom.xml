@@ -13,6 +13,10 @@
       <module>springcloudhystrix</module>
     <module>nativeconfigserver</module>
     <module>nativeconfigclient</module>
+      <module>configclient</module>
+    <module>configserver</module>
+      <module>zikkinserver</module>
+    <module>zipkinclient</module>
   </modules>
 <parent>
   <groupId>org.springframework.boot</groupId>

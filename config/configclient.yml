@@ -1,6 +1,5 @@
 server:
   port: 8070
-#  配置后eureka启动端口变为8070
 eureka:
   client:
     serviceUrl:

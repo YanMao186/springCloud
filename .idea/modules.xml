@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaconsumer/eurekaconsumer.iml" filepath="$PROJECT_DIR$/eurekaconsumer/eurekaconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaproducer/eurekaproducer.iml" filepath="$PROJECT_DIR$/eurekaproducer/eurekaproducer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
@@ -12,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/springcloudhystrix/springcloudhystrix.iml" filepath="$PROJECT_DIR$/springcloudhystrix/springcloudhystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudribbon/springcloudribbon.iml" filepath="$PROJECT_DIR$/springcloudribbon/springcloudribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudzuui/springcloudzuui.iml" filepath="$PROJECT_DIR$/springcloudzuui/springcloudzuui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zikkinserver/zikkinserver.iml" filepath="$PROJECT_DIR$/zikkinserver/zikkinserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkinclient/zipkinclient.iml" filepath="$PROJECT_DIR$/zipkinclient/zipkinclient.iml" />
     </modules>
   </component>
 </project>
