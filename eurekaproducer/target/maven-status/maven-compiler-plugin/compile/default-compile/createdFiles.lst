@@ -1,0 +1,5 @@
+com\ym\repository\PersonService.class
+com\ym\ProducerApplication.class
+com\ym\repository\PersonServiceImpl.class
+com\ym\entity\Person.class
+com\ym\collection\PersonCollection.class

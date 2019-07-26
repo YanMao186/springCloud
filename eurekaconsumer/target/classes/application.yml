@@ -1,0 +1,15 @@
+server:
+  port: 9002
+#  配置服务消费者端口
+spring:
+  application:
+    name: consumer
+#    配置服务在注册中心的名称
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+
+

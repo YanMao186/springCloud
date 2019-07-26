@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloudribbon" />
+        <module name="nativeconfigclient" />
+        <module name="eurekaconsumer" />
+        <module name="springcloudfeign" />
+        <module name="nativeconfigserver" />
+        <module name="springcloudhystrix" />
+        <module name="eurekaserver" />
+        <module name="eurekaproducer" />
+        <module name="springcloudzuui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eurekaconsumer" target="1.8" />
+      <module name="eurekaproducer" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="nativeconfigclient" target="1.8" />
+      <module name="nativeconfigserver" target="1.8" />
+      <module name="springcloudapplication" target="1.8" />
+      <module name="springcloudfeign" target="1.8" />
+      <module name="springcloudhystrix" target="1.8" />
+      <module name="springcloudribbon" target="1.8" />
+      <module name="springcloudzuui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eurekaconsumer" options="-parameters" />
+      <module name="eurekaproducer" options="-parameters" />
+      <module name="eurekaserver" options="-parameters" />
+      <module name="nativeconfigclient" options="-parameters" />
+      <module name="nativeconfigserver" options="-parameters" />
+      <module name="springcloudfeign" options="-parameters" />
+      <module name="springcloudhystrix" options="-parameters" />
+      <module name="springcloudribbon" options="-parameters" />
+      <module name="springcloudzuui" options="-parameters" />
+    </option>
+  </component>
+</project>

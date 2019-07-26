@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eurekaproducer:war">
+    <output-path>$PROJECT_DIR$/eurekaproducer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>eurekaproducer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="eurekaproducer-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="eurekaproducer:war exploded" />
+    </root>
+  </artifact>
+</component>

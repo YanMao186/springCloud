@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springcloudhystrix:war">
+    <output-path>$PROJECT_DIR$/springcloudhystrix/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springcloudhystrix</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springcloudhystrix-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springcloudhystrix:war exploded" />
+    </root>
+  </artifact>
+</component>

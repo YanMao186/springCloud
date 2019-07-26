@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurekaconsumer/eurekaconsumer.iml" filepath="$PROJECT_DIR$/eurekaconsumer/eurekaconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaproducer/eurekaproducer.iml" filepath="$PROJECT_DIR$/eurekaproducer/eurekaproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativeconfigclient/nativeconfigclient.iml" filepath="$PROJECT_DIR$/nativeconfigclient/nativeconfigclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativeconfigserver/nativeconfigserver.iml" filepath="$PROJECT_DIR$/nativeconfigserver/nativeconfigserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudapplication.iml" filepath="$PROJECT_DIR$/springcloudapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudfeign/springcloudfeign.iml" filepath="$PROJECT_DIR$/springcloudfeign/springcloudfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudhystrix/springcloudhystrix.iml" filepath="$PROJECT_DIR$/springcloudhystrix/springcloudhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudribbon/springcloudribbon.iml" filepath="$PROJECT_DIR$/springcloudribbon/springcloudribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudzuui/springcloudzuui.iml" filepath="$PROJECT_DIR$/springcloudzuui/springcloudzuui.iml" />
+    </modules>
+  </component>
+</project>
