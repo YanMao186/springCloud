@@ -1,9 +1,10 @@
 server:
   port: 8070
+#  配置后eureka启动端口变为8070
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-  spring:
-    application:
-      name: configclient
+spring:
+  application:
+    name: configclient
