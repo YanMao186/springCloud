@@ -88,6 +88,10 @@
     <orderEntry type="library" name="Maven: io.zipkin.java:zipkin-ui:2.9.4" level="project" />
     <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.11.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:2.0.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-netflix-core:2.0.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-aop:2.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.8.13" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.plugins:maven-surefire-plugin:2.7.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-api:2.0.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.surefire:surefire-booter:2.7.1" level="project" />
